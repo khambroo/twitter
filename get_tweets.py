@@ -8,10 +8,10 @@ import csv
 import tweepy
 
 #Get your Twitter API credentials and enter them here
-consumer_key = 
-consumer_secret = 
-access_key = 
-access_secret = 
+consumer_key = "TD65N6SKhlxrt4bdUqrdJIAQT"
+consumer_secret = "WHvpOZ4WaeOQsgedZrMddwUAgZnesYs2ExxlObCIo6g6LKnsDC"
+access_key = "741011867569553408-yZpsNBb4XOp0sRTIgJQa8RZBlJTDrY5"
+access_secret = "Ar8ZayANN3bOfmdpys8SkyszwGR4gib2iZ9j5HL7y2EFp"
 
 #method to get a user's last 100 tweets
 def get_tweets(username):
